@@ -10,10 +10,12 @@ header{
 .logo-img{
     width: 40px;
     vertical-align: middle;
+    margin-left: 20px;
 }
 .logo-text{
     font-size: 40px;
     vertical-align: middle;
+    display: inline-block;
 }
 main{
     background-color: rgba(227, 229, 232, 0.5);
@@ -53,5 +55,4 @@ main{
     text-align: center;
     cursor: pointer;
     border-radius: 5px;
-    
   }
