@@ -68,7 +68,7 @@ main{
 }
 .taskname{
     padding: 15px 32px;
-    margin-left: 13%;
+    
     margin-top: 10px;
     font-size: 20px;
 }
@@ -91,4 +91,7 @@ main{
   }
   .violet{
     background-color: violet;
+  }
+  .nomefeature>input{
+    margin-left: 13%;
   }
