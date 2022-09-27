@@ -56,3 +56,36 @@ main{
     cursor: pointer;
     border-radius: 5px;
   }
+.seznew{
+    background-color: white;
+    padding: 15px 32px;
+    margin-left: 10%;
+    margin-top: 10px;
+}
+.tasksection{
+    font-size: 25px;
+    font-weight: bold;
+}
+.taskname{
+    padding: 15px 32px;
+    margin-left: 13%;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.label {
+    border: none;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    font-size: 12px;
+    border-radius: 10px;
+    height: 20px;
+    padding:1px 10px;
+    vertical-align: middle;
+
+  }
+  .blue{
+    background-color: deepskyblue;
+  }
