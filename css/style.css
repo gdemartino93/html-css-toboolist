@@ -24,18 +24,19 @@ main{
     position: relative;
 }
 .contenitore{
-    height: 700px;
     width: 80%;
     background-color: white;
     position: absolute;
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
+    border-radius: 40px;
 } 
 .header-contenitore{
     background-color: white;
     border-bottom: 1px solid lightgray;
     padding: 10px;
+    border-radius: 40px;
 }
 .buttonaddtask {
     background-color: #008CBA;;
@@ -84,7 +85,6 @@ main{
     height: 20px;
     padding:1px 10px;
     vertical-align: middle;
-
   }
   .blue{
     background-color: deepskyblue;
@@ -107,6 +107,5 @@ main{
   .nomefeature>input{
     margin-left: 13%;
   }
-
 
   
