@@ -30,7 +30,7 @@ main{
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
-    border-radius: 40px 40px;
+    border-radius: 40px 40px 40px 40px;
 
 
 } 
@@ -38,7 +38,7 @@ main{
     background-color: white;
     border-bottom: 1px solid lightgray;
     padding: 10px;
-    border-radius: 40px 40px;
+    border-radius: 40px 40px 0 0 ;
 
 
 
