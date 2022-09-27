@@ -68,7 +68,7 @@ main{
 }
 .taskname{
     padding: 15px 32px;
-    
+    line-height: 30px;
     margin-top: 10px;
     font-size: 20px;
 }
@@ -90,8 +90,23 @@ main{
     background-color: deepskyblue;
   }
   .violet{
+    background-color:blueviolet;
+  }
+  .green{
+    background-color: green;
+  }
+  .orange{
+    background-color: orange;
+  }
+  .pink{
     background-color: violet;
+  }
+  .greenyellow{
+    background-color: greenyellow;
   }
   .nomefeature>input{
     margin-left: 13%;
   }
+
+
+  
